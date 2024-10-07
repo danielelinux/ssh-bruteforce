@@ -9,8 +9,7 @@ Lo script Python SSH Bruteforcer è progettato per simulare attacchi di brute-fo
 * Libreria `paramiko`: `pip install paramiko`
 
 **Installazione:**
-1. Clona il repository: `git clone https://github.com/tuo-username/ssh-bruteforcer.git`
-2. Installa le dipendenze: `pip install -r requirements.txt`
+Clona il repository: `git clone https://github.com/tuo-username/ssh-bruteforcer.git`
 
 **Utilizzo:**
 ```bash
